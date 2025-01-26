@@ -42,6 +42,8 @@ Before running this project, ensure you have the following:
 
 ---
 
+Read article on https://medium.com/@alexanderochuba7/building-a-game-day-notification-solution-with-aws-lambda-sns-eventbridge-and-sportsdata-io-325dcbfbb7f7
+
 ## 🛠️ Setup  
 
 1. Clone this repository:  
