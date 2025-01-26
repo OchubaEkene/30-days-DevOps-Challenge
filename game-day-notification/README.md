@@ -46,5 +46,5 @@ Before running this project, ensure you have the following:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/game-day-notification.git
+   git clone https://github.com/OchubaEkene/30-days-DevOps-Challenge/tree/main/game-day-notification
    cd game-day-notification
